@@ -1,0 +1,1 @@
+This is readme file for the episode 1 of namaste react course.
